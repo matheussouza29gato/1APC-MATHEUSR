@@ -1,0 +1,13 @@
+body{
+	background-color: lightyellow;
+}
+
+.text1{
+	
+}
+
+.center
+{
+	display: flex;
+	justify-content: center;
+}
