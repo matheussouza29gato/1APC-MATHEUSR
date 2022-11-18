@@ -1,0 +1,11 @@
+body{
+	background-color: lightskyblue;
+}
+
+.center
+{
+	width: 100vw;
+	height: 1re;
+	display: flex;
+	justify-content: center;
+}
